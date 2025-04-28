@@ -1,0 +1,10 @@
+.DC_Store
+*.pyc
+*__pycache__
+.pytest_cache
+*.egg-info
+*.egg
+.vscode/
+.venv
+.env
+*.db
